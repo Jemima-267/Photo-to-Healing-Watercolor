@@ -318,13 +318,11 @@ V3.6 最重要的判断标准不是“画得漂亮”，而是：
 photo-to-healing-watercolor-v3.6/
 ├── README.md
 ├── README_EN.md
-├── README_PREVIEW.html
 ├── photo-to-healing-watercolor_V3.6_SKILL.md
-└── assets/
-    ├── showcase-harbor.png
-    ├── showcase-garden-portrait.png
-    ├── showcase-river-skyline.png
-    └── showcase-indoor-portrait.png
+├── showcase-harbor.png
+├── showcase-garden-portrait.png
+├── showcase-river-skyline.png
+└── showcase-indoor-portrait.png
 ```
 
 ---
