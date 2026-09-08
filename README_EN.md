@@ -325,13 +325,11 @@ A successful output should feel like:
 photo-to-healing-watercolor-v3.6/
 ├── README.md
 ├── README_EN.md
-├── README_PREVIEW.html
 ├── photo-to-healing-watercolor_V3.6_SKILL.md
-└── assets/
-    ├── showcase-harbor.png
-    ├── showcase-garden-portrait.png
-    ├── showcase-river-skyline.png
-    └── showcase-indoor-portrait.png
+├── showcase-harbor.png
+├── showcase-garden-portrait.png
+├── showcase-river-skyline.png
+└── showcase-indoor-portrait.png
 ```
 
 ---
